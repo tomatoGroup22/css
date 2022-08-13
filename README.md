@@ -51,12 +51,11 @@ Common CSS properties
 
         Others
         - Opacity
-        -
+        
+     9 . image properties
+         - width
+         - height
 
-9 . image properties
-width
-height
-
-10. external imports
-    font awesome properteis
-    google font
+    10. external imports
+         - font awesome properteis
+         - google font
